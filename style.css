@@ -74,18 +74,13 @@ button {
     height: 40px;
 }
 
-#search-bar, #profile, #account, #buttons {
-    border: 1px solid black;
-}
 #search-bar {
-    background-color: yellow;
     display: grid;
     grid-template-columns: 1fr 25fr;
     padding-top: 20px;
     padding-left: 40px;
 }
 #profile {
-    background-color: purple;
     order: 2;
     display: grid;
     grid-template-columns: 1fr 8fr;
@@ -95,7 +90,6 @@ button {
     padding-left: 40px;
 }
 #account {
-    background-color: green;
     order: 1;
     display: grid;
     grid-template-columns: 1fr 1fr 5fr;
@@ -104,7 +98,6 @@ button {
     padding-left: 200px; 
 }
 #buttons {
-    background-color: red;
     order: 3;
     display: flex;
     justify-content: space-evenly;
