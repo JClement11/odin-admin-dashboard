@@ -164,3 +164,129 @@ button {
 #right-content h2 {
   margin-top: 30px;
 }
+
+#navigation img,
+#branding img {
+  width: 25px;
+  height: auto;
+  margin-right: 40px;
+  margin-bottom: 20px;
+}
+
+#navigation div,
+#branding div {
+  display: flex;
+}
+
+#navigation li,
+#branding li {
+  font-size: 20px;
+}
+
+#communities {
+  padding-bottom: 100px;
+}
+
+#dashboard {
+  display: flex;
+}
+
+#dashboard-icon {
+  width: 50px;
+  height: auto;
+  margin: 20px 25px 50px 30px;
+}
+
+#sidebar h1 {
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+#name-large {
+  font-size: 1.5em;
+}
+
+#name-small {
+  font-size: 1.2em;
+}
+
+#content .div {
+  border-radius: 10px;
+  border: none;
+  background-color: white;
+  display: flex;
+}
+
+.band {
+  height: 100%;
+  width: 50px;
+  border-radius: 10px 0 0 10px;
+  border: none !important;
+  background-color: #efb428;
+}
+
+#right-content div {
+  border-radius: 10px;
+  border: none;
+  background-color: white;
+}
+
+#left-content img {
+  width: 25px;
+  height: auto;
+}
+
+.icons {
+  height: 100%;
+  width: 20%;
+  border: none !important;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  padding-bottom: 10px;
+}
+
+.icons img {
+  margin: 20px;
+}
+
+.text {
+  border: none !important;
+  padding-left: 50px;
+  padding-top: 20px;
+}
+
+#div7 h4 {
+  padding: 0px 30px 0px 20px;
+}
+
+#div7 hr {
+  margin: auto;
+}
+
+#div7 p {
+  font-size: 0.8em;
+  padding: 0px 30px 0px 20px;
+  margin-bottom: 10px;
+}
+
+#first {
+  margin-top: 20px;
+}
+
+.profile {
+  width: 50px;
+  height: auto;
+  border-radius: 50%;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+#div8 {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+}
+
+#div8 p {
+  margin-top: 10px;
+}
